@@ -1,4 +1,4 @@
-# Main
+# Privacy Policy
 This privacy policy applies to the Ratib Al-Haddad (Malaysia) app (hereby referred to as "Application") for mobile devices that was created by qrez (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".',
 
 The Application collects some information when you download and use it. This information may include information such as:
